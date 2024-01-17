@@ -1,4 +1,4 @@
-# multiple-disease-prediction-streamlit-app
+# multiple-disease-predictor
 This repository contains the codebase for "Multiple Disease Predictor". The training notebooks &amp; the datasets are also provided in the respective folders. 
 
 app.py is the streamlit app code.
